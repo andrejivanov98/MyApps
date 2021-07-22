@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(129, 129, 136, 0.712);
+    font-family: 'Cinzel', serif;
+}
+
+h1{
+   text-align: center;
+   margin-top: 100px;
+}
+
+#allCharactersBtn{
+    margin-left: 10%;
+}
+
+#studentsBtn{
+    margin-left: 10%;
+}
+
+#staffBtn{
+    margin-left: 10%;
+}
+
+#refreshBtn{
+    margin-left: 10%;
+    background-color: rgb(165, 49, 49);
+}
+
+#moreBtn{
+    margin-left: 10%;
+    background-color: rgb(72, 185, 77);
+}

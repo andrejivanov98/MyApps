@@ -1,0 +1,25 @@
+#table{
+    background-color: rgb(115, 117, 119);
+}
+
+#thead{
+    background-color: rgb(120, 172, 240);
+}
+
+#tableResult{
+    background-color: rgb(163, 163, 163);
+}
+
+body{
+    background-image: url("images/worldmap.jpg");
+    
+}
+
+.d-flex{
+    width: 40%;  
+    margin-left: 33.33%;
+}
+
+#countrySearchBtn{
+    margin-left: 2%;
+}
